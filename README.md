@@ -46,7 +46,5 @@ The **XGBoost model** achieved strong predictive performance on stock price fore
 
 ### 📊 Key Insights
 - Achieved **< 1% prediction error (MAPE)**, indicating high accuracy.
-- Very small gap between training and validation results → **low overfitting**.
-- **Lag-based features** (previous days’ prices) were the most influential.
-- XGBoost successfully captured **temporal patterns** in stock price movements.
-
+- Minimal difference between training and validation results → **low overfitting**.
+- XGBoost outperformed **Random Forest and Prophet**, achieving the lowest error and best generalization.
