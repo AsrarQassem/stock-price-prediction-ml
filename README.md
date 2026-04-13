@@ -1,4 +1,5 @@
 # 📈 Stock Price Prediction using Machine Learning
+<img width="1033" height="403" alt="project phases diagram" src="https://github.com/user-attachments/assets/a1c0e3c3-db20-43dd-9f14-fa874d5ffdbb" />
 
 ## 📌 Overview
 This project focuses on forecasting and analyzing stock prices using machine learning models such as Random Forest, XGBoost, and Prophet. The goal is to predict future stock trends based on historical data and provide insights for better financial decision-making.
@@ -10,7 +11,8 @@ This project focuses on forecasting and analyzing stock prices using machine lea
 - Pandas, NumPy
 - Scikit-learn
 - XGBoost
-- Matplotlib
+- Matplotlib<img width="1033" height="403" alt="project phases diagram" src="https://github.com/user-attachments/assets/28f4f949-a4cc-40b8-b652-b07e30f1bd75" />
+
 - Jupyter Notebook
 
 ---
