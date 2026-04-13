@@ -34,11 +34,3 @@ This project focuses on forecasting and analyzing stock prices using machine lea
 ## 📈 Results
 The models were evaluated using metrics such as MSE, MAE, and RMSE.  
 XGBoost demonstrated better performance compared to other models and provided more accurate predictions.
-
----
-
-## 🚀 How to Run
-1. Clone the repository
-2. Install required libraries:
-   pip install -r requirements.txt
-3. Run the Jupyter Notebook
