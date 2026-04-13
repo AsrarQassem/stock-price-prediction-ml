@@ -35,3 +35,8 @@ This project focuses on forecasting and analyzing stock prices using machine lea
 ## 📈 Results
 The models were evaluated using metrics such as MSE, MAE, and RMSE.  
 XGBoost demonstrated better performance compared to other models and provided more accurate predictions.
+
+### 📊 Model Insights
+![Prediction Results](prediction_results.png)
+
+This visualization shows the learned seasonal patterns in stock prices, including weekly, yearly, and daily trends captured by the model.
