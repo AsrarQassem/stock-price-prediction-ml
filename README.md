@@ -1,4 +1,5 @@
 # 📈 Stock Price Prediction using Machine Learning
+
 <img width="1033" height="403" alt="project phases diagram" src="https://github.com/user-attachments/assets/a1c0e3c3-db20-43dd-9f14-fa874d5ffdbb" />
 
 ## 📌 Overview
@@ -33,5 +34,19 @@ This project focuses on forecasting and analyzing stock prices using machine lea
 ---
 
 ## 📈 Results
-The models were evaluated using metrics such as MSE, MAE, and RMSE.  
-XGBoost demonstrated better performance compared to other models and provided more accurate predictions.
+
+The **XGBoost model** achieved strong predictive performance on stock price forecasting:
+
+| Metric | Train | Validation |
+|--------|------|------------|
+| RMSE   | 0.224 | 0.398 |
+| MAE    | 0.159 | 0.273 |
+| MAPE   | 0.995% | 0.872% |
+| R² Score | 0.999 | 0.996 |
+
+### 📊 Key Insights
+- Achieved **< 1% prediction error (MAPE)**, indicating high accuracy.
+- Very small gap between training and validation results → **low overfitting**.
+- **Lag-based features** (previous days’ prices) were the most influential.
+- XGBoost successfully captured **temporal patterns** in stock price movements.
+
