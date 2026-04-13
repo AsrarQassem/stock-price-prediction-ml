@@ -11,8 +11,7 @@ This project focuses on forecasting and analyzing stock prices using machine lea
 - Pandas, NumPy
 - Scikit-learn
 - XGBoost
-- Matplotlib<img width="1033" height="403" alt="project phases diagram" src="https://github.com/user-attachments/assets/28f4f949-a4cc-40b8-b652-b07e30f1bd75" />
-
+- Matplotlib
 - Jupyter Notebook
 
 ---
