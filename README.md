@@ -37,6 +37,6 @@ The models were evaluated using metrics such as MSE, MAE, and RMSE.
 XGBoost demonstrated better performance compared to other models and provided more accurate predictions.
 
 ### 📊 Model Insights
-![Prediction Results](prediction_results.png)
+<img width="660" height="636" alt="prediction result" src="https://github.com/user-attachments/assets/aa5e5e97-18dd-42f4-8692-fdab5f1f22cc" />
 
 This visualization shows the learned seasonal patterns in stock prices, including weekly, yearly, and daily trends captured by the model.
